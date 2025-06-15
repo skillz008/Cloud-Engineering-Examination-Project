@@ -15,8 +15,8 @@ To provision and deploy a dynamic, production-ready landing page with interactiv
 - Tailwind CSS (Styling)
 
 ## 🌐 Live Demo
-http://44.203.114.63 
-https://digitalfaithevents.netlify.app/
+- http://44.203.114.63 
+- https://digitalfaithevents.netlify.app/
 
 ## 📸 Screenshot
 ![Screenshot](preview.png)
