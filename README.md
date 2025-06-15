@@ -16,6 +16,7 @@ To provision and deploy a dynamic, production-ready landing page with interactiv
 
 ## 🌐 Live Demo
 http://44.203.114.63 
+https://digitalfaithevents.netlify.app/
 
 ## 📸 Screenshot
 ![Screenshot](preview.png)
@@ -85,10 +86,15 @@ http://44.203.114.63
   ```bash
   curl http://44.203.114.63
   ```
+  
+  ```bash
+  curl https://digitalfaithevents.netlify.app
+  ```
 
 ## 🌍 Domain & Access
 
 * **Public IP**: `http://44.203.114.63`
+* **Custom Domain**: `https://digitalfaithevents.netlify.app/`
 
 ## 📎 Project Structure
 
